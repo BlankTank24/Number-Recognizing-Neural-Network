@@ -8,6 +8,8 @@ This project implements a fully connected neural network without relying on mach
 
 The network takes a 28×28 image and predicts the number it represents.
 
+Link to my whiteboard: https://drive.google.com/file/d/12YPSdP3LQT5bK8W6g_KcyWpt9CTSGPSM/view?usp=sharing
+
 ## Architecture
 
 - **Input layer:** 784 neurons (28×28 pixels)
